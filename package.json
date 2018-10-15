@@ -1,0 +1,23 @@
+{
+  "name": "@slicemenice/jquery-ui-selectbox-replacement",
+  "version": "1.0.0",
+  "description": "Selectbox replacement based on jQuery UI Widget",
+  "keywords": [
+    "jQuery UI",
+    "checkbox"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SliceMeNice/jquery-ui-selectbox-replacement.git"
+  },
+  "author": "SliceMeNice",
+  "contributors": [{
+    "name": "Stefan Ullinger",
+    "email": "stefan@slicemenice.de"
+  }],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SliceMeNice/jquery-ui-selectbox-replacement/issues"
+  },
+  "homepage": "https://github.com/SliceMeNice/jquery-ui-selectbox-replacement#readme"
+}
